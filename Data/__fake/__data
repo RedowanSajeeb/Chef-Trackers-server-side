@@ -1,0 +1,48 @@
+,
+     {
+      "_id": 8,
+      "name": "Tom Smith",
+      "years_of_experience": 10,
+      "number_of_recipes": 50,
+      "likes": 4500,
+      "short_bio": "Tom Smith is a renowned Australian chef with 10 years of experience in cooking a wide variety of Australian dishes. He has won numerous awards for his culinary skills and has worked in some of the best restaurants in Australia.",
+      "picture": "https://example.com/chef15.jpg",
+      "recipes": [
+        {
+          "name": "Barbecue Pork Ribs",
+          "cuisine": "Australian",
+          "ingredients": [
+            "2 racks of pork ribs",
+            "1/2 cup barbecue sauce",
+            "1/4 cup apple cider vinegar",
+            "1/4 cup honey",
+            "2 tbsp Dijon mustard",
+            "2 tbsp Worcestershire sauce",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "Salt and black pepper"
+          ],
+          "cooking_method": "1. Preheat the oven to 300°F.\n2. Cut the pork ribs into individual ribs.\n3. Season the ribs with salt and black pepper.\n4. In a bowl, mix together the barbecue sauce, apple cider vinegar, honey, Dijon mustard, Worcestershire sauce, garlic powder and onion powder.\n5. Brush the ribs with the sauce mixture.\n6. Place the ribs on a baking sheet and cover with aluminum foil.\n7. Bake for 2-2.5 hours or until the meat is tender.\n8. Preheat the grill to medium-high heat.\n9. Brush the ribs with the remaining sauce and grill for 2-3 minutes on each side or until they are charred and crispy.\n10. Serve hot with extra barbecue sauce on the side.",
+          "rating": 4.9
+        },
+        {
+          "name": "Lamb Kofta Kebabs",
+          "cuisine": "Australian",
+          "ingredients": [
+            "1 lb ground lamb",
+            "1 onion, grated",
+            "1/4 cup breadcrumbs",
+            "2 cloves garlic, minced",
+            "2 tbsp chopped fresh mint",
+            "1 tsp ground coriander",
+            "1 tsp ground cumin",
+            "1/2 tsp ground cinnamon",
+            "1/2 tsp ground allspice",
+            "Salt and black pepper",
+            "8 bamboo skewers"
+          ],
+          "cooking_method": "1. Soak the bamboo skewers in water for at least 30 minutes.\n2. In a large bowl, mix together the ground lamb, grated onion, breadcrumbs, minced garlic, chopped fresh mint, ground coriander, ground cumin, ground cinnamon, ground allspice, salt and black pepper.\n3. Divide the mixture into 8 portions.\n4. Thread the lamb mixture onto the bamboo skewers.\n5. Preheat the grill to medium-high heat.\n6. Grill the lamb kofta kebabs for 4-5 minutes on each side or until they are cooked through.\n7. Serve hot with pita bread, tzatziki sauce and a green salad.",
+          "rating": 4.7
+        }
+      ]
+    }
