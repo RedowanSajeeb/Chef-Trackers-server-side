@@ -1,5 +1,4 @@
-{
-  "Chef": [
+[
     {
       "_id": 1,
       "name": "Anna Lee",
@@ -7,7 +6,7 @@
       "number_of_recipes": 100,
       "likes": 2000,
       "short_bio": "Anna is a professional chef with years of experience in Australian cuisine.",
-      "picture": "https://example.com/chef.jpg",
+      "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
       "recipes": [
         {
           "name": "Vegemite Toast",
@@ -49,7 +48,7 @@
       "number_of_recipes": 150,
       "likes": 3000,
       "short_bio": "David is a professional chef with years of experience in modern Australian cuisine.",
-      "picture": "https://example.com/chef2.jpg",
+      "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
       "recipes": [
         {
           "name": "Barramundi with Lemon Butter Sauce",
@@ -91,7 +90,7 @@
       "number_of_recipes": 100,
       "likes": 3500,
       "short_bio": "James is an expert in Australian cuisine and loves to experiment with local ingredients to create unique and flavorful dishes.",
-      "picture": "https://example.com/chef4.jpg",
+      "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
       "recipes": [
         {
           "name": "Lamb Roast",
@@ -133,7 +132,7 @@
       "number_of_recipes": 100,
       "likes": 3500,
       "short_bio": "James is an expert in Australian cuisine and loves to experiment with local ingredients to create unique and flavorful dishes.",
-      "picture": "https://example.com/chef4.jpg",
+      "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
       "recipes": [
         {
           "name": "Lamb Roast",
@@ -174,7 +173,7 @@
       "number_of_recipes": 50,
       "likes": 4500,
       "short_bio": "Mark is a passionate Australian chef with over 12 years of experience in creating unique and mouth-watering Australian dishes. He loves to experiment with flavors and ingredients to create new and exciting dishes.",
-      "picture": "https://example.com/chef13.jpg",
+      "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
       "recipes": [
         {
           "name": "Kangaroo Steak",
@@ -217,7 +216,7 @@
       "number_of_recipes": 50,
       "likes": 4500,
       "short_bio": "Mark is a passionate Australian chef with over 12 years of experience in creating unique and mouth-watering Australian dishes. He loves to experiment with flavors and ingredients to create new and exciting dishes.",
-      "picture": "https://example.com/chef13.jpg",
+      "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
       "recipes": [
         {
           "name": "Kangaroo Steak",
@@ -252,53 +251,6 @@
           "rating": 4.7
         }
       ]
-    },
-       {
-      "_id": 7,
-      "name": "Sarah Lee",
-      "years_of_experience": 8,
-      "number_of_recipes": 30,
-      "likes": 3000,
-      "short_bio": "Sarah Lee is a talented Australian chef with 8 years of experience in cooking delicious and healthy Australian cuisine. She loves to use fresh and locally-sourced ingredients in her recipes.",
-      "picture": "https://example.com/chef14.jpg",
-      "recipes": [
-        {
-          "name": "Grilled Prawns with Avocado Salsa",
-          "cuisine": "Australian",
-          "ingredients": [
-            "1 pound large prawns, peeled and deveined",
-            "1 avocado, diced",
-            "1/2 red onion, diced",
-            "1/2 cup cherry tomatoes, halved",
-            "1/4 cup chopped fresh cilantro",
-            "2 tbsp olive oil",
-            "2 tbsp lime juice",
-            "Salt and black pepper"
-          ],
-          "cooking_method": "1. Preheat the grill to medium-high heat.\n2. Thread the prawns onto skewers and brush with olive oil.\n3. Season the prawns with salt and black pepper.\n4. Grill the prawns for 2-3 minutes on each side or until they are pink and cooked through.\n5. In a bowl, mix together the diced avocado, red onion, cherry tomatoes, cilantro, olive oil, lime juice, salt and black pepper.\n6. Serve the grilled prawns with the avocado salsa on top.",
-          "rating": 4.6
-        },
-        {
-          "name": "Beef and Mushroom Pie",
-          "cuisine": "Australian",
-          "ingredients": [
-            "1 lb beef stew meat, cut into small cubes",
-            "1 cup sliced mushrooms",
-            "1 onion, chopped",
-            "2 cloves garlic, minced",
-            "2 tbsp flour",
-            "1 1/2 cups beef broth",
-            "1 tbsp Worcestershire sauce",
-            "1 tbsp tomato paste",
-            "1 tsp dried thyme",
-            "1 tsp dried rosemary",
-            "Salt and black pepper",
-            "1 sheet puff pastry, thawed"
-          ],
-          "cooking_method": "1. Preheat the oven to 375°F. Grease a 9-inch pie dish.\n2. In a large skillet, cook the beef stew meat over medium-high heat until browned.\n3. Add the sliced mushrooms, chopped onion and minced garlic to the skillet and cook for another 3-4 minutes or until the onions are translucent and the mushrooms are tender.\n4. Sprinkle the flour over the meat and vegetables and stir to combine.\n5. Add the beef broth, Worcestershire sauce, tomato paste, dried thyme and dried rosemary to the skillet and stir to combine.\n6. Season with salt and black pepper.\n7. Simmer the mixture for 10-15 minutes or until the sauce has thickened.\n8. Pour the beef mixture into the prepared pie dish.\n9. Roll out the puff pastry on a lightly floured surface and cut it to fit over the top of the pie dish.\n10. Place the pastry on top of the pie and press the edges to seal.\n11. Bake for 25-30 minutes or until the pastry is golden brown and puffed up.",
-          "rating": 4.8
-        }
-      ]
-    }   
+    }
+       
   ]
-}

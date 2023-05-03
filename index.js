@@ -10,8 +10,15 @@ app.get('/',(req,res)=>{
 app.get("/chef", (req, res) => {
   res.send(chef);
 });
+// console.log(chef);
+app.get("/chef/:id", (req, res) => {
+  const id = req.params.id;
+  const recipes = chef.find((recipe) => recipe._id == id);
+  res.send(recipes);
+  console.log(recipes);
+});
 
 
 app.listen(port,()=>{
-    console.log(`Example app listening on port ${port}`);
+    console.log(`App listening on port ${port}`);
 })
