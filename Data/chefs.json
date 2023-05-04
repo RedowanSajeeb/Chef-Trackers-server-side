@@ -3,7 +3,7 @@
       "_id": 1,
       "name": "Anna Lee",
       "years_of_experience": 15,
-      "number_of_recipes": 100,
+      "number_of_recipes": 3,
       "likes": 2000,
       "short_bio": "Anna is a professional chef with years of experience in Australian cuisine.",
       "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
@@ -14,7 +14,9 @@
           "ingredients": [
             "2 slices of bread",
             "Butter",
-            "Vegemite"
+            "Vegemite",
+            "2 achiote ",
+            "tbsp"
           ],
           "cooking_method": "1. Toast the bread until golden brown. 2. Spread a thin layer of butter on each slice. 3. Spread a thin layer of Vegemite on top of the butter. 4. Serve hot.",
           "rating": 3.5
@@ -37,6 +39,29 @@
           ],
           "cooking_method": "1. Preheat the oven to 350°F. 2. Grease and flour a 9x13 inch baking dish. 3. In a medium bowl, whisk together the flour, baking powder, and salt. 4. In a large bowl, beat the butter and sugar until light and fluffy. 5. Add the eggs, one at a time, beating well after each addition. 6. Beat in the vanilla extract. 7. Gradually add the flour mixture to the butter mixture, alternating with the milk, and mix until just combined. 8. Pour the batter into the prepared baking dish and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean. 9. Let the cake cool completely. 10. Cut the cake into small squares. 11. In a medium bowl, melt the chocolate chips and heavy cream in the microwave, stirring every 30 seconds until smooth. 12. Dip each square of cake in the chocolate mixture, then roll it in the shredded coconut. 13. Place the coated squares on a wire rack to cool and set. 14. Serve at room temperature.",
           "rating": 4.8
+        },
+        {
+            "name": "Tacos al Pastor",
+            "cuisine": "Mexican",
+            "ingredients": [
+                "1 lb pork shoulder, sliced into thin pieces",
+                "1/2 cup pineapple juice",
+                "1/4 cup white vinegar",
+                "2 tbsp achiote paste",
+                "2 tbsp guajillo chili powder",
+                "1 tbsp dried oregano",
+                "1 tsp ground cumin",
+                "1 tsp salt",
+                "1/2 tsp black pepper",
+                "1/2 white onion, sliced",
+                "1/2 cup chopped fresh pineapple",
+                "2 tbsp vegetable oil",
+                "8-10 small corn tortillas",
+                "1/2 cup chopped fresh cilantro",
+                "1/2 cup chopped white onion"
+            ],
+            "cooking_method": "1. In a large bowl, whisk together the pineapple juice, white vinegar, achiote paste, guajillo chili powder, oregano, cumin, salt, and black pepper. 2. Add the sliced pork shoulder and stir to coat. Cover and marinate in the refrigerator for at least 2 hours, or overnight. 3. In a large skillet, heat the vegetable oil over medium-high heat. 4. Add the sliced onion and chopped pineapple and cook until softened, about 5 minutes. 5. Add the marinated pork and cook until browned and cooked through, about 8-10 minutes. 6. Serve the pork mixture in warm corn tortillas, topped with chopped cilantro and white onion.",
+            "rating": 4.9
         }
         
       ]
@@ -45,10 +70,10 @@
       "_id": 2,
       "name": "David Wong",
       "years_of_experience": 20,
-      "number_of_recipes": 150,
+      "number_of_recipes": 3,
       "likes": 3000,
       "short_bio": "David is a professional chef with years of experience in modern Australian cuisine.",
-      "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
+      "picture": "https://www.papercitymag.com/wp-content/uploads/2019/03/Curtis-Stone-image.jpeg",
       "recipes": [
         {
           "name": "Barramundi with Lemon Butter Sauce",
@@ -80,6 +105,29 @@
           ],
           "cooking_method": "1. Preheat the oven to 350°F. 2. Line a baking sheet with parchment paper. 3. In a large bowl, combine the flour, rolled oats, coconut, and sugar. 4. In a small bowl, whisk together the melted butter and golden syrup. 5. In a separate small bowl, dissolve the baking soda in the boiling water. 6. Add the butter mixture and the baking soda mixture to the dry ingredients and stir until well combined. 7. Drop spoonfuls of the mixture onto the prepared baking sheet and flatten with a fork. 8. Bake for 12-15 minutes, or until golden brown. 9. Let the biscuits cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely. 10. Serve at room temperature.",
           "rating": 4.9
+        },
+        {
+            "name": "Tacos al Pastor",
+            "cuisine": "Mexican",
+            "ingredients": [
+                "1 lb pork shoulder, sliced into thin pieces",
+                "1/2 cup pineapple juice",
+                "1/4 cup white vinegar",
+                "2 tbsp achiote paste",
+                "2 tbsp guajillo chili powder",
+                "1 tbsp dried oregano",
+                "1 tsp ground cumin",
+                "1 tsp salt",
+                "1/2 tsp black pepper",
+                "1/2 white onion, sliced",
+                "1/2 cup chopped fresh pineapple",
+                "2 tbsp vegetable oil",
+                "8-10 small corn tortillas",
+                "1/2 cup chopped fresh cilantro",
+                "1/2 cup chopped white onion"
+            ],
+            "cooking_method": "1. In a large bowl, whisk together the pineapple juice, white vinegar, achiote paste, guajillo chili powder, oregano, cumin, salt, and black pepper. 2. Add the sliced pork shoulder and stir to coat. Cover and marinate in the refrigerator for at least 2 hours, or overnight. 3. In a large skillet, heat the vegetable oil over medium-high heat. 4. Add the sliced onion and chopped pineapple and cook until softened, about 5 minutes. 5. Add the marinated pork and cook until browned and cooked through, about 8-10 minutes. 6. Serve the pork mixture in warm corn tortillas, topped with chopped cilantro and white onion.",
+            "rating": 4.9
         }
       ]
     },
@@ -87,10 +135,10 @@
       "_id": 3,
       "name": "James Smith",
       "years_of_experience": 15,
-      "number_of_recipes": 100,
+      "number_of_recipes": 3,
       "likes": 3500,
       "short_bio": "James is an expert in Australian cuisine and loves to experiment with local ingredients to create unique and flavorful dishes.",
-      "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
+      "picture": "https://upload.wikimedia.org/wikipedia/en/4/46/Peter-Gilmore.jpg",
       "recipes": [
         {
           "name": "Lamb Roast",
@@ -122,6 +170,22 @@
           ],
           "cooking_method": "1. Preheat the oven to 300°F. 2. In a large bowl, beat the egg whites until stiff peaks form. 3. Gradually add the sugar, 1 tablespoon at a time, while continuing to beat the egg whites. 4. Add the vinegar, vanilla extract, and cornstarch, and fold gently to combine. 5. Line a baking sheet with parchment paper and spread the egg white mixture into a circle, leaving a slight indentation in the center. 6. Bake the pavlova for 1 hour, or until it is crisp on the outside and soft on the inside. 7. Let the pavlova cool completely. 8. In a separate bowl, whip the heavy cream until soft peaks form. 9. Spoon the whipped cream onto the center of the pavlova. 10. Top the cream with the mixed berries and garnish with mint leaves.",
           "rating": 4.9
+        },
+        {
+          "name": "Anzac Biscuits",
+          "cuisine": "Australian",
+          "ingredients": [
+            "1 cup all-purpose flour",
+            "1 cup rolled oats",
+            "1 cup desiccated coconut",
+            "3/4 cup granulated sugar",
+            "1/2 cup unsalted butter, melted",
+            "2 tablespoons golden syrup",
+            "1 teaspoon baking soda",
+            "2 tablespoons boiling water"
+          ],
+          "cooking_method": "1. Preheat the oven to 350°F. 2. Line a baking sheet with parchment paper. 3. In a large bowl, combine the flour, rolled oats, coconut, and sugar. 4. In a small bowl, whisk together the melted butter and golden syrup. 5. In a separate small bowl, dissolve the baking soda in the boiling water. 6. Add the butter mixture and the baking soda mixture to the dry ingredients and stir until well combined. 7. Drop spoonfuls of the mixture onto the prepared baking sheet and flatten with a fork. 8. Bake for 12-15 minutes, or until golden brown. 9. Let the biscuits cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely. 10. Serve at room temperature.",
+          "rating": 4.9
         }
       ]
     },
@@ -129,10 +193,10 @@
       "_id": 4,
       "name": "James Smith",
       "years_of_experience": 15,
-      "number_of_recipes": 100,
+      "number_of_recipes": 3,
       "likes": 3500,
       "short_bio": "James is an expert in Australian cuisine and loves to experiment with local ingredients to create unique and flavorful dishes.",
-      "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
+      "picture": "https://www.newidea.com.au/media/105231/pete-evans.jpg?width=720&center=0.0,0.0",
       "recipes": [
         {
           "name": "Lamb Roast",
@@ -150,6 +214,21 @@
           "rating": 4.5
         },
         {
+          "name": "Pavlova",
+          "cuisine": "Australian",
+          "ingredients": [
+            "4 egg whites",
+            "1 cup granulated sugar",
+            "1 teaspoon white vinegar",
+            "1 teaspoon vanilla extract",
+            "1 tablespoon cornstarch",
+            "1 cup heavy cream",
+            "2 cups mixed berries",
+            "Mint leaves, for garnish"
+          ],
+          "cooking_method": "1. Preheat the oven to 300°F. 2. In a large bowl, beat the egg whites until stiff peaks form. 3. Gradually add the sugar, 1 tablespoon at a time, while continuing to beat the egg whites. 4. Add the vinegar, vanilla extract, and cornstarch, and fold gently to combine. 5. Line a baking sheet with parchment paper and spread the egg white mixture into a circle, leaving a slight indentation in the center. 6. Bake the pavlova for 1 hour, or until it is crisp on the outside and soft on the inside. 7. Let the pavlova cool completely. 8. In a separate bowl, whip the heavy cream until soft peaks form. 9. Spoon the whipped cream onto the center of the pavlova. 10. Top the cream with the mixed berries and garnish with mint leaves.",
+          "rating": 4.9
+        },{
           "name": "Pavlova",
           "cuisine": "Australian",
           "ingredients": [
@@ -170,10 +249,10 @@
       "_id": 5,
       "name": "Mark Wilson",
       "years_of_experience": 12,
-      "number_of_recipes": 50,
+      "number_of_recipes": 3,
       "likes": 4500,
       "short_bio": "Mark is a passionate Australian chef with over 12 years of experience in creating unique and mouth-watering Australian dishes. He loves to experiment with flavors and ingredients to create new and exciting dishes.",
-      "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
+      "picture": "https://gumlet.assettype.com/dtnext%2F2023-04%2Fe35db302-ad4a-4374-a97e-d3596472238f%2Fchef.jpg?auto=format%2Ccompress&format=webp&w=400&dpr=2.6",
       "recipes": [
         {
           "name": "Kangaroo Steak",
@@ -206,6 +285,21 @@
           ],
           "cooking_method": "1. Preheat the oven to 200°C. Line a baking tray with baking paper.\n2. In a shallow dish, combine the chopped macadamia nuts, panko breadcrumbs and lemon myrtle leaves.\n3. Season the barramundi fillets with salt and black pepper.\n4. Place the flour in a shallow dish, the beaten eggs in another shallow dish.\n5. Coat the barramundi fillets in flour, shaking off any excess.\n6. Dip the fillets in the beaten eggs, then coat in the macadamia nut mixture.\n7. Heat the olive oil in a large frying pan over medium heat.\n8. Add the fillets and cook for 2-3 minutes on each side or until golden brown.\n9. Transfer the fillets to the prepared baking tray.\n10. Bake for 10-12 minutes or until the fish is cooked through and the crust is golden brown.",
           "rating": 4.7
+        },
+        {
+          "name": "Lamb Roast",
+          "cuisine": "Australian",
+          "ingredients": [
+            "1 leg of lamb",
+            "4 garlic cloves, thinly sliced",
+            "4 rosemary sprigs",
+            "2 lemons, sliced",
+            "1/4 cup olive oil",
+            "Salt",
+            "Pepper"
+          ],
+          "cooking_method": "1. Preheat the oven to 350°F. 2. In a small bowl, mix together the olive oil, salt, and pepper. 3. Rub the oil mixture all over the lamb. 4. Place the lamb in a roasting pan and scatter the garlic, rosemary, and lemon slices around it. 5. Roast the lamb for 1 1/2 to 2 hours, or until it reaches an internal temperature of 145°F. 6. Let the lamb rest for 10-15 minutes before slicing and serving.",
+          "rating": 4.5
         }
       ]
     },
@@ -213,10 +307,10 @@
       "_id": 6,
       "name": "Mark Wilson",
       "years_of_experience": 12,
-      "number_of_recipes": 50,
+      "number_of_recipes": 3,
       "likes": 4500,
       "short_bio": "Mark is a passionate Australian chef with over 12 years of experience in creating unique and mouth-watering Australian dishes. He loves to experiment with flavors and ingredients to create new and exciting dishes.",
-      "picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM6ai1y-hUBYb025VQlxgNOFd578TVhefWng&usqp=CAU",
       "recipes": [
         {
           "name": "Kangaroo Steak",
@@ -249,6 +343,25 @@
           ],
           "cooking_method": "1. Preheat the oven to 200°C. Line a baking tray with baking paper.\n2. In a shallow dish, combine the chopped macadamia nuts, panko breadcrumbs and lemon myrtle leaves.\n3. Season the barramundi fillets with salt and black pepper.\n4. Place the flour in a shallow dish, the beaten eggs in another shallow dish.\n5. Coat the barramundi fillets in flour, shaking off any excess.\n6. Dip the fillets in the beaten eggs, then coat in the macadamia nut mixture.\n7. Heat the olive oil in a large frying pan over medium heat.\n8. Add the fillets and cook for 2-3 minutes on each side or until golden brown.\n9. Transfer the fillets to the prepared baking tray.\n10. Bake for 10-12 minutes or until the fish is cooked through and the crust is golden brown.",
           "rating": 4.7
+        },
+        {
+          "name": "Lamingtons",
+          "cuisine": "Australian",
+          "ingredients": [
+            "1 3/4 cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "1/4 teaspoon salt",
+            "1/2 cup unsalted butter, room temperature",
+            "1 cup granulated sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "1/2 cup whole milk",
+            "3 cups shredded coconut",
+            "1 cup chocolate chips",
+            "1/2 cup heavy cream"
+          ],
+          "cooking_method": "1. Preheat the oven to 350°F. 2. Grease and flour a 9x13 inch baking dish. 3. In a medium bowl, whisk together the flour, baking powder, and salt. 4. In a large bowl, beat the butter and sugar until light and fluffy. 5. Add the eggs, one at a time, beating well after each addition. 6. Beat in the vanilla extract. 7. Gradually add the flour mixture to the butter mixture, alternating with the milk, and mix until just combined. 8. Pour the batter into the prepared baking dish and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean. 9. Let the cake cool completely. 10. Cut the cake into small squares. 11. In a medium bowl, melt the chocolate chips and heavy cream in the microwave, stirring every 30 seconds until smooth. 12. Dip each square of cake in the chocolate mixture, then roll it in the shredded coconut. 13. Place the coated squares on a wire rack to cool and set. 14. Serve at room temperature.",
+          "rating": 4.8
         }
       ]
     }
