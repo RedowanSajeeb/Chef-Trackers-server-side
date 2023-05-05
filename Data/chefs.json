@@ -191,12 +191,12 @@
     },
     {
       "_id": 4,
-      "name": "James Smith",
+      "name": "James Smitha",
       "years_of_experience": 15,
       "number_of_recipes": 3,
       "likes": 3500,
       "short_bio": "James is an expert in Australian cuisine and loves to experiment with local ingredients to create unique and flavorful dishes.",
-      "picture": "https://www.newidea.com.au/media/105231/pete-evans.jpg?width=720&center=0.0,0.0",
+      "picture": "https://starbelly.bslthemes.com/wp-content/uploads/2022/05/team-2.png",
       "recipes": [
         {
           "name": "Lamb Roast",
